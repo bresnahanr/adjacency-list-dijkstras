@@ -10,7 +10,7 @@
 #include<math.h>
 #include"adjmat.h"
 
-#define MAXNODES 50
+#define MAXNODES 100
 int nodeSet[MAXNODES] = {'\0'};
 int visited[MAXNODES] = {0};
 
